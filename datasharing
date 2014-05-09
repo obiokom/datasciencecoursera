@@ -1,0 +1,4 @@
+git clone https://github.com/jtleek/datasharing
+cd Spoon-Knife
+git remote add upstream https://github.com/jtleek/datasharing
+git fetch upstream
